@@ -1,6 +1,6 @@
 ## **Results two most similar documents according to their cosine similarity**
-###### Need to import some files like cosine_similarity, CountVectorizer, textmining
-###### For text mining first time users have to install textmining
+* Need to import some files like cosine_similarity, CountVectorizer, textmining
+* For text mining first time users have to install textmining
 #### Thoughts ####
 * Defined the documents. 
 * Used count vectorizer to create a vector for each unique word in our documents. 
